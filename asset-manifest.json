@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebApp-MUI/static/css/main.964fdded.css",
+    "main.js": "/WebApp-MUI/static/js/main.3410b406.js",
+    "index.html": "/WebApp-MUI/index.html",
+    "main.964fdded.css.map": "/WebApp-MUI/static/css/main.964fdded.css.map",
+    "main.3410b406.js.map": "/WebApp-MUI/static/js/main.3410b406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.3410b406.js"
+  ]
+}
