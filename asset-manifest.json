@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/WebApp-MUI/static/css/main.964fdded.css",
-    "main.js": "/WebApp-MUI/static/js/main.3410b406.js",
+    "main.js": "/WebApp-MUI/static/js/main.c8f69af3.js",
+    "static/media/Mobile Horizontal lowbar.png": "/WebApp-MUI/static/media/Mobile Horizontal lowbar.6955f25956c172232935.png",
+    "static/media/LogoLowHD.png": "/WebApp-MUI/static/media/LogoLowHD.10e436eafd6765836b37.png",
+    "static/media/Desktop LowHD.jpg": "/WebApp-MUI/static/media/Desktop LowHD.ee1e91b1d2c720d24f29.jpg",
     "index.html": "/WebApp-MUI/index.html",
     "main.964fdded.css.map": "/WebApp-MUI/static/css/main.964fdded.css.map",
-    "main.3410b406.js.map": "/WebApp-MUI/static/js/main.3410b406.js.map"
+    "main.c8f69af3.js.map": "/WebApp-MUI/static/js/main.c8f69af3.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.3410b406.js"
+    "static/js/main.c8f69af3.js"
   ]
 }
